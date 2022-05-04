@@ -1,0 +1,37 @@
+MERN Stack   : 30 to 48 hours
+------------------------------------------
+M -  MongoDB
+E -  ExpressJS
+R - React.js
+N -Node JS
+------------------------------------------
+Softwares : 
+
+
+Visual Studio Code :  https://code.visualstudio.com/
+
+Node JS                  :https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi
+
+
+
+Node JS  - Server side Java Sscript.
+
+When you Install Node JS You will get  Java Script runtime environement + builtin JS libraries.  
+
+Node JS  = Java Script runtime environment + builtin JS libraries  (packages or modules)  
+
+JavaScript - Client Side and generally used with HTML.
+
+1.Create a folder day1  and open from command prompt.
+
+2.Open day 1 folder in visual studio code. 
+
+  
+
+
+
+
+
+
+
+

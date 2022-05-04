@@ -1,0 +1,166 @@
+Full Stack Developer
+-----------------------------------
+MEAN & MERN  Training
+------------------------------------
+
+What are the different types of application/product/software we develop now a days?
+
+1.Mobile
+2.Desktop
+3.Hybrid
+4.Website
+
+What are the different platforms/languages avaiable to develop application/product/software?
+
+Java
+.Net
+PHP
+Python
+Node.js
+
+
+
+
+What is enterprise?
+
+Any Business Organization.
+Do the business (Make a money) by providing some services.
+
+Examples.
+
+
+School                                   :Teaching,Exam,Result,Admission
+College                                  :Teaching,Exam,Result,Admission
+Hotel                                      :Book/Cancel Order or Rooms
+Bank                                      :withdraw,depsoit,fundtransfer,account opening  
+LIC                                         :Purchase,Pay premium,Premium receipt print
+Transport                               :Booking/Canceling the tickets.
+
+
+Why we develop the software?
+
+1.To assist the businness
+2.To grow business
+3.To provide best services to the end users/customers
+
+
+
+Reqirements of doing the business
+
+1.Capital (Money)
+2.Resources(Employees)
+3.Infra(Building,Machines,Netwwrking,)
+4.Policy documents. (Business Rules)
+
+Every application comprises of 4 layers
+
+
+Presentation Layer : It is a code written to provide the i/p screen as well as response to the user. 
+---------------------------
+Hello Pradeep Chinchole
+
+Static      :  Hello
+Dynamic : Pradeep Chinchole
+          
+Service Layer / Business Logic Layer
+----------------------------------------------------
+It is a programtical implementation of business rules. 
+
+
+      if source_accno exits && dest_accno exists && amount_to_be_transfered < amount_avalaible_ in_source_accno
+                  debit source_accno && credit dest_accno.
+                  display appropriate message to the user
+     else
+               Unable to to transfer the fund.            
+
+
+Data Access Layer
+
+The code written to perform the CRUD operations on the database.
+
+
+DataSource
+                           Array,Collection
+                           Text/Word/Pdf/Excel/XML
+                           RDBMS -Oracle,MySQL    
+                           NOSQL -MongoDB,Cassendra
+                           Cloud : Google drive,MS One drive,Drop Box
+                           Another Business Application (AWS -> Net Banking)
+
+
+
+Database operation
+--------------------------
+C   -Create
+R   -Read/Retrieve
+U   -Update
+D   -Delete
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Platform                                 PL                                  SL                       DAL                                          DataSource  
+
+                                                                                                                                                                          Array,Collection
+                                                                                                                                                                        Text/Word/Pdf/Excel/XML
+                                                                                                                                                                        RDBMS -Oracle,MySQL    
+                                                                                                                                                                        NOSQL -MongoDB,Cassendra
+                                                                                                                                                                       Cloud : Google drive,MS One drive,Drop Box
+                                                                                                                                                                      Another Business Application (AWS -> Net Banking)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+M  -MongoDB
+E  -Express JS
+A  -Angular
+N -Node.js
+
+Node js                      Angular                               Express.js               array
+                                                                                                                 mysql
+                                                                                                                 mongoose
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+M  -MongoDB
+E  -Express JS
+R  -React
+N -Node.js
+
+Node js                      React                               Express.js               array
+                                                                                                           mysql
+                                                                                                           mongoose
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+
+Java                                                                               
+
+
+Angular                                                                   Java Bean               java.util   
+React                                                                     Spring Bean             java.io
+                                                                                                                 java.sql (JDBC) 
+Servlet,JSP                                                                                             Hibernate   
+Struts,JSF,Spring Web MVC                                                               Spring JdbcTemplate 
+                                                                                                                Spring HibernateTemplate
+                                                                                                                Spring JPARepsoitory
+                                                                                                                Spring MongoTemplate
+                                                                                                                Spring MongoRepository 
+
+                                                                                                                 Spring RestTemplate
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RESTful Webservices            (Java,.Net.PHP,NodeJs,Python)
+-----------------------------------------------------------------------------------------
+
+                URI                                                                       METHOD                                         DESCRIPTION
+               ----------------------------------------------------------------------------------------------------------------------------------
+              /employees                                                           GET                                                  GET ALL EMPLOYEES
+              /employees/1                                                        GET                                                  GET EMPLOYEE WITH ID 1    (Route Parmeter)
+              /employees?id=1                                                 GET                                                  GET EMPLOYEE WITH ID 1    (Query Prameter)
+              /employees?dept_name=sales                         GET                                                  GET ALL EMPLOYEES OF sales Deparment   (Query Prameter)
+              /employees/1                                                        PUT                                                  UPDATE EMPLOYEE WITH ID 1
+              /employees/1                                                        DELETE                                           DELETE EMPLOYEE WITH ID 1
+              /employees                                                           POSTS                                             CREATE A NEW EMPLOYEE
+
+
+
+
+
+
