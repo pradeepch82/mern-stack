@@ -26,6 +26,51 @@ JavaScript - Client Side and generally used with HTML.
 
 2.Open day 1 folder in visual studio code. 
 
+3. Write a JavaScritp file
+
+4. Execute by using below command
+    node <filename>.js
+
+
+13-May-2022
+-------------------
+In JavaScript We have built-in objects.
+
+These objects are divided into 2 catagories.
+
+1.Browser Objects  :  Is accessible in the browser only.
+
+  Ex.  window ,document,TextField,RadioButton
+
+2.Language Objects  :Is accessbile in browser as well as server side.
+
+Ex. String,Math,Boolean,Date,Number,Array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
